@@ -3,7 +3,7 @@ import numpy as np
 def retira_outliers(dfx):
     column_names = list(dfx)
 
-    for names in column_names[25:]:
+    for names in column_names[1:]:
         for x in [names]:
 
             q75,q25 = np.percentile(dfx.loc[:,x],[75,25])
