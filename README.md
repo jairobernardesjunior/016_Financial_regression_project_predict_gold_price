@@ -16,8 +16,8 @@ As a solution, we will carry out an in-depth study of the data provided, we know
 Como solução faremos um estudo profundo dos dados fornecidos, sabemos que são várias séries temporais de variáveis que estão relacionadas a commodity ouro. Utilizaremos vários algoritmos de modelos de machine learning, como também de deep learning, e o modelo que apresentar o melhor resultado será o escolhido para ser utilizado na predição da cotação do ouro na bolsa de valores. O modelo resultante escolhido será armazenado e ficará disponível para ser utilizado nas predições futuras do preço dos títulos de ouro comercializado na bolsa.
 
 ### Objective:
-- This project's main objective is to generate a machine learning model to predict the price of gold based on various features provided by the kaggle website.
-- Este projeto tem como objetivo principal gerar um modelo de machine learning para predizer o preço do ouro baseado em várias características fornecidas pelo site do kaggle.
+- This project's main objective is to generate a machine learning and/or deep learning model to predict the price of gold based on various features provided by the kaggle website.
+- Este projeto tem como objetivo principal gerar um modelo de machine learning e/ou deep learning para predizer o preço do ouro baseado em várias características fornecidas pelo site do kaggle.
 
 ### Data Origin:
 - Dataset: https://www.kaggle.com/datasets/franciscogcc/financial-data/data
